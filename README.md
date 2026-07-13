@@ -47,7 +47,6 @@ Current Research Topics
 
 * Excellence Award – National SW Hackathon
 * Planning Excellence Award – University Hackathon
-* KIISC Poster Presentation
 * Undergraduate Research Experience (Machine Learning Laboratory)
 * Undergraduate Research Experience (Applied Cryptography Laboratory)
 
@@ -206,64 +205,4 @@ Spotify Clone Application using Swift.
 * ERD Tools
 
 ---
-
-# 📚 Experience
-
-* Full Stack Web Development
-* API Design
-* Database Design
-* System Planning
-* Requirement Analysis
-* Technical Documentation
-* Research Project Development
-* QA Testing for Web Applications
-* Integration of External APIs and SDKs
-
-  * Gemini API
-  * OpenAI API
-  * Various Open-source SDKs
-
----
-
-# 🚧 Current Projects
-
-* Linux-based Virtual Server Environment
-* Security Assessment of Self-developed Web Applications
-* AI Security Research Project
-* Cryptanalysis Competition Preparation
-* Capstone Design Project
-
----
-
-# 🎯 Research Interests
-
-* AI Security
-* Applied Cryptography
-* Digital Provenance
-* Authentication
-* Web Security
-* Full Stack Development
-* Secure System Design
-
----
-
-# 🌱 Currently Learning
-
-* Linux Server Administration
-* Docker
-* System Security
-* AI Security
-* Cryptanalysis
-* Cloud Infrastructure
-
----
-
-# 📈 GitHub Statistics
-
-* Contribution Graph
-* GitHub Stats
-* Most Used Languages
-
----
-
 > *"I enjoy designing secure systems, building practical software, and conducting research that bridges academia and real-world applications."*
