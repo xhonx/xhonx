@@ -205,4 +205,3 @@ Spotify Clone Application using Swift.
 * ERD Tools
 
 ---
-> *"I enjoy designing secure systems, building practical software, and conducting research that bridges academia and real-world applications."*
