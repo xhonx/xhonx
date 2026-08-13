@@ -255,7 +255,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">
     🧑‍💻 Contact me
   </h2>
-  <br />
+
   <div align="center">
     <a href="https://instagram.com/xh._.hn">
       <img
@@ -269,14 +269,7 @@
     </a>
   </div>
   <br />
-  <div align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhannah%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"
-    /></a>
-  </div>
 </div>
-
 <!-- ============================================= -->
 <!-- 🧩 CODING PROFILE — 백준 아이디(BAEKJOON_ID)를 본인 아이디로 교체하세요 -->
 <!-- 프로그래머스는 현재 텍스트 배지로만 표시 중. 자동 갱신형으로 바꾸려면 -->
@@ -287,34 +280,45 @@
     🧩 Coding Profile
   </h2>
   <br />
-  <div align="center">
-    <a href="https://solved.ac/southn">
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=southn" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://solved.ac/southn">
+          <img
+            src="https://mazassumnida.wtf/api/v2/generate_badge?boj=southn"
+          />
+        </a>
+      </td>
+      <!-- <td width="50%" align="center">
+        <img
+          src="https://github-profile-trophy-liard-delta.vercel.app/?username=xhonx&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=5"
+        />
+      </td> -->
+    </tr>
+  </table>
+  <!--START_SECTION:waka--> <!-- waka-readme-stats 액션이 여기를 자동으로 채워줘요. 워크플로우 설정 후 첫 실행되면 내용이 생겨요. --> <!--END_SECTION:waka--> </div>
   <br />
 </div>
-
 <!-- ============================================= -->
 <!-- 🏅 STATS — username=hannah 부분을 본인 깃허브 아이디로 교체하세요 -->
 <!-- ============================================= -->
-<div align="center">
+<!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">🏅 Stats</h2>
-  <!-- <div align="center">
+  <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=hannah&show_icons=true&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&icon_color=87d5e3"
+      src="https://github-readme-stats.vercel.app/api?username=xhonx&show_icons=true&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&icon_color=87d5e3"
       width="48%"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhonx&layout=compact&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&langs_count=8"
       width="35%"
     />
   </div>
-  <br /> -->
+  <br />
   <div align="center">
     <img
       src="https://streak-stats.demolab.com/?user=xhonx&background=00000000&stroke=ffffff&ring=87d5e3&fire=a2f6d2&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"
       width="48%"
     />
   </div>
-</div>
+</div> -->
