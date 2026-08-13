@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # 매일 UTC 00:00 (한국 시간 09:00)에 자동 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}   # Actions 탭에서 수동 실행도 가능
+
+jobs:
+  update-readme:
+    name: Update coding time in README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TIME_ZONE: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_OS: "false"
+          SHOW_LANGUAGE: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_LOC_CHART: "false"
