@@ -270,23 +270,24 @@
   </div>
   <br />
 </div>
+
 <!-- ============================================= -->
 <!-- 🧩 CODING PROFILE — 백준 아이디(BAEKJOON_ID)를 본인 아이디로 교체하세요 -->
-<!-- 프로그래머스는 현재 텍스트 배지로만 표시 중. 자동 갱신형으로 바꾸려면 -->
-<!-- tomy8964/Programmers_Badge_Generator + 백준허브 설치가 필요해요 -->
 <!-- ============================================= -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">
     🧩 Coding Profile
   </h2>
   <br />
-  <!--START_SECTION:waka--> <!-- waka-readme-stats 액션이 여기를 자동으로 채워줘요. 워크플로우 설정 후 첫 실행되면 내용이 생겨요. --> <!--END_SECTION:waka--> </div>
-  <br />
+  <!--START_SECTION:waka-->
+  <!-- waka-readme-stats 액션이 여기를 자동으로 채워줘요. 워크플로우 설정 후 첫 실행되면 내용이 생겨요. -->
+  <!--END_SECTION:waka-->
 </div>
+
 <!-- ============================================= -->
-<!-- 🏅 STATS — username=hannah 부분을 본인 깃허브 아이디로 교체하세요 -->
+<!-- 🏅 STATS -->
 <!-- ============================================= -->
-<!-- <div align="center">
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">🏅 Stats</h2>
   <div align="center">
     <img
@@ -305,4 +306,4 @@
       width="48%"
     />
   </div>
-</div> -->
+</div>
