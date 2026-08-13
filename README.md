@@ -289,15 +289,10 @@
   <br />
   <div align="center">
     <a href="https://solved.ac/southn">
-      <img src="https://mazassumnida.wtf/api/v3/generate_badge?boj=southn" />
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=southn" />
     </a>
   </div>
   <br />
-  <div align="center">
-    <img
-      src="https://img.shields.io/badge/Programmers-Level%20-,%20UPDATE%20ME-2CB4A6?style=plastic&logo=&logoColor=white"
-    />
-  </div>
 </div>
 
 <!-- ============================================= -->
