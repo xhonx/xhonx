@@ -286,21 +286,26 @@
 
 <!-- ============================================= -->
 <!-- 🏅 STATS -->
-<!-- 🏅 STATS -->
 <!-- ============================================= -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">🏅 Stats</h2>
   <img
     src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fxhonx?color=blue&label=hits&size=small"
   />
-  <div align="center">
+  <br />
+  <br />
+  <div
+    align="center"
+    display="flex"
+    style="display: flex; justify-content: center; gap: 10px"
+  >
     <img
-      src="https://github-readme-stats-six-rho-70.vercel.app/api?username=xhonx&show_icons=true&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&icon_color=87d5e3"
-      width="40%"
+      src="https://github-readme-stats-six-rho-70.vercel.app/api?username=xhonx&theme=tokyonight&count_private=true&include_all_commits=true"
+      width="45%"
     />
     <img
-      src="https://github-readme-stats-six-rho-70.vercel.app/api/top-langs/?username=xhonx&layout=compact&bg_color=180,ffffff,00000000&title_color=ffffff&text_color=ffffff&langs_count=8"
-      width="40%"
+      src="https://github-readme-stats-six-rho-70.vercel.app/api/top-langs/?username=xhonx&layout=compact&theme=tokyonight&langs_count=8&count_private=true"
+      width="35%"
     />
   </div>
   <br />
