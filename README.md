@@ -278,6 +278,29 @@
 </div>
 
 <!-- ============================================= -->
+<!-- 🧩 CODING PROFILE — 백준 아이디(BAEKJOON_ID)를 본인 아이디로 교체하세요 -->
+<!-- 프로그래머스는 현재 텍스트 배지로만 표시 중. 자동 갱신형으로 바꾸려면 -->
+<!-- tomy8964/Programmers_Badge_Generator + 백준허브 설치가 필요해요 -->
+<!-- ============================================= -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33">
+    🧩 Coding Profile
+  </h2>
+  <br />
+  <div align="center">
+    <a href="https://solved.ac/southn">
+      <img src="https://mazassumnida.wtf/api/v3/generate_badge?boj=southn" />
+    </a>
+  </div>
+  <br />
+  <div align="center">
+    <img
+      src="https://img.shields.io/badge/Programmers-Level%20-,%20UPDATE%20ME-2CB4A6?style=plastic&logo=&logoColor=white"
+    />
+  </div>
+</div>
+
+<!-- ============================================= -->
 <!-- 🏅 STATS — username=hannah 부분을 본인 깃허브 아이디로 교체하세요 -->
 <!-- ============================================= -->
 <div align="center">
