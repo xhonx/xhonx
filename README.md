@@ -296,7 +296,77 @@
       </td> -->
     </tr>
   </table>
-  <!--START_SECTION:waka--> <!-- waka-readme-stats 액션이 여기를 자동으로 채워줘요. 워크플로우 설정 후 첫 실행되면 내용이 생겨요. --> <!--END_SECTION:waka--> </div>
+  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 164.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+🌆 Daytime                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌃 Evening                363 commits         █████████████░░░░░░░░░░░░   53.62 % 
+🌙 Night                  194 commits         ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Tuesday                  207 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+Wednesday                128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Friday                   35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Saturday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               14 repos            ██████████████░░░░░░░░░░░   56.00 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
+
+
+
+ Last Updated on 13/08/2026 09:45:49 UTC
+<!--END_SECTION:waka--> </div>
   <br />
 </div>
 <!-- ============================================= -->
