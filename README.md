@@ -280,8 +280,56 @@
   </h2>
   <br />
   <!--START_SECTION:waka-->
-  <!-- waka-readme-stats 액션이 여기를 자동으로 채워줘요. 워크플로우 설정 후 첫 실행되면 내용이 생겨요. -->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 165.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+🌆 Daytime                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌃 Evening                375 commits         ██████████████░░░░░░░░░░░   54.43 % 
+🌙 Night                  194 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Tuesday                  207 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Wednesday                128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Thursday                 153 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Friday                   35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Saturday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+```
+
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               14 repos            █████████████░░░░░░░░░░░░   53.85 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+
+ Last Updated on 14/08/2026 02:02:06 UTC
+<!--END_SECTION:waka-->
 </div>
 
 <!-- ============================================= -->
