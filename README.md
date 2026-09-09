@@ -101,13 +101,13 @@
         <td align="center">2024.06 - 2025.09</td>
         <td align="center">머신러닝연구실</td>
         <td align="center">학부연구생 | FE Developer</td>
-        <td>기획부터 개발까지 전반적인 역할 수행</td>
+        <td>서비스 기획 및 프론트엔드 개발 전반 수행</td>
       </tr>
       <tr>
         <td align="center">2025.11 - 현재</td>
         <td align="center">암호응용연구실</td>
-        <td align="center">FE | BE | Research</td>
-        <td>FIDO, C2PA표준 인증과 무결성 관련 연구 및 개발 진행</td>
+        <td align="center">학부연구생 | Full-stack Developer | Research</td>
+        <td>FIDO/C2PA 기반 인증 및 무결성 관련 연구/개발</td>
       </tr>
     </tbody>
   </table>
