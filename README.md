@@ -104,12 +104,6 @@
         <td>기획부터 개발까지 전반적인 역할 수행</td>
       </tr>
       <tr>
-        <td align="center">2026.02 - 2026.08</td>
-        <td align="center">정보과학대학 학생회 "Siri"</td>
-        <td align="center">총무부장</td>
-        <td>예결산 작성 및 검토 수행</td>
-      </tr>
-      <tr>
         <td align="center">2025.11 - 현재</td>
         <td align="center">암호응용연구실</td>
         <td align="center">FE | BE | Research</td>
@@ -183,6 +177,13 @@
         <td align="center">교육과정 수강중</td>
       </tr>
       <tr>
+        <td align="center">2025. 03. - 2025. 11.</td>
+        <td align="center">🙋 활동</td>
+        <td align="center">구름톤 유니브 4기</td>
+        <td align="center">Kakao × goorm</td>
+        <td align="center">프론트엔드 파트로 참여</td>
+      </tr>
+      <tr>
         <td align="center">2024. 03. - 2024. 10.</td>
         <td align="center">🙋활동</td>
         <td align="center">학술동아리 씨애랑/웹개발팀</td>
@@ -195,6 +196,13 @@
         <td align="center">학술동아리 씨애랑/보안팀</td>
         <td align="center">한림대학교</td>
         <td align="center">보안팀 팀원</td>
+      </tr>
+      <tr>
+        <td align="center">2026.02 - 2026.08</td>
+        <td align="center">🙋활동</td>
+        <td align="center">정보과학대학 학생회 "Siri"</td>
+        <td align="center">총무부장</td>
+        <td>예결산 작성 및 검토 수행</td>
       </tr>
       <tr>
         <td align="center">2025. 12. - 현재</td>
