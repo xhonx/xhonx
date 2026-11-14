@@ -246,7 +246,7 @@
         Backend를 담당하며 시스템 아키텍처, JWT 인증·인가, 중앙 권한 정책, 감사 로그, 보안 점검을 설계·구현했습니다.
       </p>
       <p align="center">
-        <a href="https://github.com/xhonx/DoQScale_Backend">📄 Backend Repo</a>
+        <a href="https://github.com/DoQFlowAI">🏢 Organization</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -293,7 +293,7 @@
         분석 요청, 취약점 등급, 진행 상태, 예외 응답을 일관된 백엔드 구조로 설계했습니다.
       </p>
       <p align="center">
-        <a href="https://github.com/xhonx/CodeGuard_AI">📄 Repo</a>
+        <a href="https://github.com/pjt-2team-4">🏢 Organization</a>
       </p>
     </td>
   </tr>
@@ -348,19 +348,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Research Portfolio &amp; CMS</h3>
+      <h3 align="center">HelloNoti</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Product_Planning-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/DB_Design-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_Design-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white" />
       </p>
       <p>
-        프로젝트, 연구, 블로그, 노트, 수상 이력을 하나의 아카이브로 관리하는 Next.js 기반 포트폴리오입니다.
-        Supabase CMS, Notion API 동기화, 관리자 편집기, 검색·RSS·사이트맵을 구현했습니다.
+        설계와 프론트엔드를 담당한 팀 프로젝트입니다. ERD로 데이터 관계를 구조화하고 API 명세를 작성했으며,
+        Figma 웹디자인을 바탕으로 사용자 화면과 프론트엔드 기능을 구현했습니다.
       </p>
-      <p align="center">
-        <a href="https://github.com/xhonx/my_portfolio">📄 Repo</a>
-      </p>
+      <p align="center">🔒 Private Team Project</p>
     </td>
   </tr>
 </table>
@@ -375,6 +374,7 @@
   <br />
 </div>
 
+<!--START_SECTION:waka-->
 **I'm a Night 🦉**
 
 ```text
@@ -407,6 +407,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ```
 
 Last Updated on 01/11/2026 04:52:30 UTC
+<!--END_SECTION:waka-->
 
 <!-- ============================================= -->
 <!-- 🏅 STATS -->
@@ -419,7 +420,7 @@ Last Updated on 01/11/2026 04:52:30 UTC
     style="display: flex; justify-content: center; gap: 10px"
   >
     <img
-      src="https://github-readme-stats-six-rho-70.vercel.app/api?username=xhonx&theme=tokyonight&count_private=true"
+      src="https://github-readme-stats-six-rho-70.vercel.app/api?username=xhonx&theme=tokyonight&count_private=true&include_all_commits=true"
       width="45%"
     />
     <img
